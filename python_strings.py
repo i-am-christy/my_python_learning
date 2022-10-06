@@ -42,7 +42,7 @@ str10 = 'Welcome to \'Christianah\'s\' Class' #escaping single quotes in single 
 print(str10)
 str11 = "Welcome to \"Christianah\"s\" Class" #escaping single quotes in double quotes
 print(str11)
-str12 = r'Welcome to \'Christianah\'s\' Class' #ignoring escape sequence using single quotes
+str12 = R'Welcome to \'Christianah\'s\' Class' #ignoring escape sequence using single quotes
 print(str12)
 str13 = 'https:\\sabiprogrammers.org\\homes' #escaping backslash
 print(str13)
